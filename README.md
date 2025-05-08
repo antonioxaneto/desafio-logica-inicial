@@ -1,4 +1,4 @@
-<h1>Desafio de lógica</h1>
+<h1>Desafio de lógica - DIO</h1>
 <p>Segundo desafio proposto no bootcamp da DIO de lógica usando JS</p>
 
 <h2>Tecnologia Usada</h2>
